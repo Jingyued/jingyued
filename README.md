@@ -6,7 +6,7 @@ Web Developer and Designer
 
 I am a full-stack developer
 
-* 🌍  I'm based in Irvine, CA
+* 🌍  I'm based in LA, CA
 * ✉️  You can contact me at [jingyued@uci.edu](mailto:jingyued@uci.edu)
 * 🧠  I'm learning langchain library
 * 🤝  I'm open to collaborating on DEVPOST Projects
